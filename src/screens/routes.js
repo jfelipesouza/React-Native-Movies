@@ -35,9 +35,7 @@ export default function Routes(){
 
           drawerActiveTintColor:themeContext.text.main,
           drawerInactiveTintColor:themeContext.text.gray
-        }}
-
-      >
+        }}>
 
         <Drawer.Screen
           name = 'pricinpal'
